@@ -1,4 +1,4 @@
-# TMA RSI Divergence — Screen Signal & TP Monitor
+# RSI Divergence — Screen Signal & TP Monitor
 
 A Python desktop application for monitoring TradingView indicator signals using OCR (Optical Character Recognition) and automating mouse clicks on a configured trading interface.
 
